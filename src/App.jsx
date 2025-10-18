@@ -1,5 +1,4 @@
 import { Divide } from "lucide-react";
-
 function App(){
   return(
     <>
